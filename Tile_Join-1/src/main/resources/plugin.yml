@@ -1,0 +1,4 @@
+name: Tile_Join
+version: '${project.version}'
+main: org.tile_join1.Tile_Join
+api-version: 1.19
